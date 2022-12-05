@@ -21,8 +21,8 @@ div.head-container{
     background-color:rgba(204, 219, 227,.6);
     border-radius:10px;
     box-shadow:hsla(0, 0%, 0%, .5) 5px 5px 50px;
-    margin-top:50px;
-    margin-bottom:300px;
+    margin-top:10%;
+    margin-bottom:10%;
     font-family: 'Raleway', sans-serif;
     padding:30px;
 }
